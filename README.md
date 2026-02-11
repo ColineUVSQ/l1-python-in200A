@@ -10,7 +10,7 @@ Vous devez seulement:
 - Télécharger le .zip du cours sur Github.
 - En extraire les répertoires et les fichiers (Double Clic sur le fichier .zip)
 - Ouvrir le logiciel Visual Studio Code (Applications - Developpement - VSCode)
-- Ouvrir le répertoire où se trouve les fichiers extraits du cours
+- Ouvrir le répertoire où se trouvent les fichiers extraits du cours
 
 Il peut être nécessaire de vérifier que VSCode est correctement paramétré pour programmer en Python.
 
