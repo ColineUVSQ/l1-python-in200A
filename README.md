@@ -7,7 +7,7 @@ Au démarrage de l'ordinateur, choisissez **DEBIAN** (ne choisissez pas Windows)
 
 Il n'y a pas d'installation à faire.
 Vous devez seulement:
-- Télécharger le .zip du cours sur Github.
+- Télécharger le .zip du cours sur Github (les cartables numériques ont accès à Internet en Wifi)
 - En extraire les répertoires et les fichiers (Double Clic sur le fichier .zip)
 - Ouvrir le logiciel Visual Studio Code (Applications - Developpement - VSCode)
 - Ouvrir le répertoire où se trouvent les fichiers extraits du cours
