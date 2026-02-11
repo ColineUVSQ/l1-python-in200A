@@ -13,7 +13,8 @@ Vous devez seulement:
 - Ouvrir le répertoire où se trouve les fichiers extraits du cours
 
 Il peut être nécessaire de vérifier que VSCode est correctement paramétré pour programmer en Python.
-Pour cela, suivez les instructions du fichier INSTALL.md à partir de la section Finaliser l'installation de VSCode
+
+Pour cela, suivez les instructions du fichier INSTALL.md à partir de la section *Finaliser l'installation de Visual Studio Code*
 
 Vous pouvez commencer à travailler.
 
