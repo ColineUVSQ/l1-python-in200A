@@ -6,4 +6,4 @@ Suivez les instructions indiquées dans le fichier INSTALL.md
 Il n'y a pas d'installation à faire, mais prévoyez d'enregistrer votre travail à chaque séance.
 - Soit sur une clé USB
 - Soit sur un Cloud personnel
-- Soit sur un Github personnel (dans ce cas, suivez les instructions du fichier CARTABLENUM.md)
+- Soit sur un Github personnel (dans ce cas, suivez les instructions du fichier CARTABLENUM.md, un peu plus avancé)
