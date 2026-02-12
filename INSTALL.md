@@ -129,7 +129,7 @@ Cette étape précise à VSCode quel *shell* utiliser pour le terminal.
     * accepter l'installation de l'extension [Microsoft Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 1. Sélectionner l'interpréteur Python 3.X
     * cliquer en bas à gauche dans la barre d'état ou *Ctrl+Shift+P* puis sélectionner "Python: Select Interpreter"
-    * si vous avez créé un environnement virtuel, le sélectionner (par exemple l1-python "Python 3.9.X XX-bit ('l1-python': conda)")
+    * si vous avez créé un environnement virtuel, le sélectionner (par exemple l1-python "Python 3.13.X XX-bit ('l1-python': conda)")
 1. Activer les outils de vérification statique (*Linters*)
     1. Ouvrir la palette de commande (*Ctrl+Shift+P*)
     1. Sélectionner la commande "Python: Select Linter"
