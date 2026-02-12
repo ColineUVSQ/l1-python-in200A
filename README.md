@@ -21,3 +21,10 @@ Vous pouvez commencer à travailler.
 A la fin de chaque TD, n'oubliez pas d'enregistrer votre travail
 - Soit sur une clé USB
 - Soit sur un Cloud personnel (Google Drive, etc...)
+
+## Faire les exercices des TD
+Les premiers TD sont des notebooks dans lesquels on peut directement exécuter du code en Python.
+
+Il suffit pour cela d'ouvrir le notebook contenant l'exercice et de compléter directement le notebook. 
+
+A la première ouverture d'un notebook, il faut cliquer sur "Select Kernel" en haut à droite de la fenêtre et choisir "Python 3.X.X XX-bit".
