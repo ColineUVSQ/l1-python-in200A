@@ -28,3 +28,10 @@ Les premiers TD sont des notebooks dans lesquels on peut directement exécuter d
 Il suffit pour cela d'ouvrir le notebook contenant l'exercice et de compléter directement le notebook. 
 
 A la première ouverture d'un notebook, il faut cliquer sur "Select Kernel" en haut à droite de la fenêtre et choisir "Python 3.X.X XX-bit".
+
+Si vous n'arrivez pas à exécuter les parties de code du notebook:
+- créez un nouveau fichier (Fichier - Nouveau Fichier)
+- choisissez Python comme langage
+- enregistrez le fichier avec l'extension .py
+
+Vous écrirez les réponses au TD dans ce fichier, et pourrez l'exécuter en appuyant sur la flèche en haut à droite de la fenêtre.
